@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flippers321
-- 👀 I’m interested in ... 
+- 👀 I’m interested in data engineer 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
